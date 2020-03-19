@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+.header6{
+	background: url("../images/index/sistera.jpg") no-repeat;
+	background-size: cover;
+	min-height:800px;
+	overflow: hidden;
+	background-attachment:fixed;
+}
+.mainter{
+	height:600px;
+	width:38%;
+	margin:120px 550px;
+	overflow: hidden;
+	padding-top: 150px;
+}
+.mainter p{
+	font-size: 20px;
+	color: #FFFFFF;
+}
+.back{
+
+	background: url("../images/index/sistera.jpg") no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+	overflow: hidden;
+}
+.yinyue{
+	width: 65%;
+	height: 600px;
+	margin: 150px 280px;
+	float: left;
+	color: #FFFFFF;
+	border-radius: 20px;
+	background-color: #1a1a1a;
+
+}
+.table{
+	height: 600px;
+}
+.table tr{
+	height: 50px;
+}
+.table tr th{
+	width: 200px;
+	height: 50px;
+	color: #FF8C00;
+}
+.table tr td{
+	width:210px;
+	height: 50px;
+	text-align: center;
+
+}
+button{
+	width: 70px;
+	height: 30px;
+	border-radius: 20px;
+}
+.yinyue2{
+	width: 65%;
+	height: 650px;
+	margin: 150px 280px;
+	float: left;
+	color: #FFFFFF;
+	border-radius: 20px;
+	background-color: #1a1a1a;
+}
+.content{
+	width: 90%;
+	height: 600px;
+	margin: 0px auto;
+	padding-top: 30px;
+	background-color: #1a1a1a;
+}
+.content video{
+	width:98%;
+	height: 510px;
+
+}
+.content h2{
+	text-align: center;
+	font-family: STFangsong;
+	color: #FF8C00;
+}

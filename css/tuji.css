@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+.header5{
+    background: url("../images/index/brother.jpg") no-repeat;
+    background-size: cover;
+    min-height:800px;
+    overflow: hidden;
+}
+.mainter{
+    height:600px;
+    width:60%;
+    margin:120px auto;
+    overflow: hidden;
+    padding-top: 150px;
+}
+.mainter p{
+    font-size: 20px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.back{
+    background: url("../images/index/snow.jpg") no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    overflow: hidden;
+}
+.tuji{
+    width:80%;
+    margin:50px 160px;
+    float: left;
+}
+.table{
+    height: 100%;
+    border: 0px;
+}
+.table tr{
+    height: 300px;
+    float: left;
+
+}
+.table tr td{
+    width:300px;
+    height: 300px;
+    float: left;
+}
+.tuji tr td img{
+    width: 300px;
+    height: 300px;
+}
+
